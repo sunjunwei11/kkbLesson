@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+*.zip
+.eslintrc.json
+node_modules
+dist/
+.eslintcache
+.vscode/
+.prettierrc
+package-lock.json
+package.json
+.project
+.history
+*.js.map
+.cache
